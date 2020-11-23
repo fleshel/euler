@@ -1,5 +1,5 @@
 CC=gcc
 CFLAGS=-Wall -Werror
 
-problem1: problem1.c
-	$(CC) $(CFLAGS) problem1.c -o problem1.out
+problem2: problem2.c
+	$(CC) $(CFLAGS) problem2.c -o problem2.out

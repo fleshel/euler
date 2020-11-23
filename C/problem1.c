@@ -22,7 +22,7 @@ int main(int argc, char *argv[])
 		sum += divides(a);
 	}
 
-	printf("\nSum under %d: %d\n", MAX, sum);
+	printf("\nSum under %d: %d\n\n", MAX, sum);
 
 	return 0;
 }
